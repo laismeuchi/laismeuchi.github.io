@@ -522,7 +522,7 @@ strong {
   position: absolute;
   z-index: 22;
   top: 0;
-  width: 100%;
+  width: 90%;
   min-width: 550px;
 }
 
@@ -995,7 +995,7 @@ strong {
   }
 
   .hero-image {
-    min-width: 650px;
+    min-width: 400px;
   }
   
   .hero-title,
